@@ -1,0 +1,35 @@
+.ResultsHeader {
+    display: inline;
+    padding: 10px;    
+    margin-left: 75px;
+    padding-top: 45px;
+}
+
+.resultCount {
+    color: orange;
+    font-style: italic;
+}
+
+/* wider mobile phones */
+@media all and (max-width: 411px) { 
+    .ResultsHeader {
+        margin-left: 40px;
+        font-size: 13px;
+    }
+} 
+
+/* iphone x */
+@media all and (max-width: 375px) { 
+    .ResultsHeader {
+        margin-left: 40px;
+        font-size: 11px;
+    }
+}
+
+/*  iphone 5 or less */
+@media all and (max-width: 320px) { 
+    .ResultsHeader {
+        font-size: 12px;
+        margin-left: 5px;
+    }
+}

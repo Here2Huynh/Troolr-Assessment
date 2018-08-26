@@ -1,0 +1,18 @@
+.App {
+  font-family: Source Sans Pro,Sintony,Helvetica,Serif; 
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+}
+
+.headerWrapper {
+
+}
+
+.navBar {
+
+}
+
+.resultsBody {
+
+}

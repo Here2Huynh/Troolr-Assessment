@@ -1,0 +1,33 @@
+.card {
+    background: white;
+    max-width: 300px;
+    margin: 25px;
+    flex-grow: 1;
+    
+}
+
+.profilePicture {
+    max-width: 300px;
+}
+
+.infoWrapper {
+    padding: 20px;
+}
+
+.contactWrapper {
+    display: flex;
+    align-items: baseline;
+ 
+}
+
+.ratingStars {
+    flex-grow: 3;
+}
+
+.viewProfile {
+    background-color: #337ab7;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    flex-grow: 1;
+}

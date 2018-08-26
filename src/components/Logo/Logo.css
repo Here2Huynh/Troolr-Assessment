@@ -1,0 +1,25 @@
+.Logo {
+    padding: 10px;
+    margin: 25px 60px 25px 60px;
+    width: 200px;
+}
+
+/* big screens */
+@media (min-width: 700px) and (min-height: 1000px) {
+    .Logo {    
+        margin: 25px 60px 25px 60px;
+    }
+}
+
+/* medium screens */
+@media (max-width: 375px) and (max-height: 850px) {
+    .Logo {    
+        display: flex;
+    }
+}
+
+@media (min-width: 1000px) and (min-height: 700px) {
+
+}
+
+

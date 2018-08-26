@@ -1,0 +1,36 @@
+.NavBar {
+  
+}
+
+.NavBar ul {
+    list-style-type: none;
+    margin: 0;
+    padding-left: 50px;
+    overflow: hidden;
+    background-color: #5cb85c;
+    margin-bottom: 45px;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.NavBar li {
+    margin: 10px 10px 10px 35px;
+}
+
+.icon {
+    color: white;
+}
+
+.NavBar li a {
+    color: white;
+    text-align: center;
+    padding: 10px 15px;
+    text-decoration: none;
+}
+
+
+
+
+

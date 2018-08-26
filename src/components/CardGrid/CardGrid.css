@@ -1,0 +1,8 @@
+.cardGrid {
+    margin: 25px;
+    flex-grow: 2;
+}
+
+.gridWrapper {
+    display: flex;
+}
